@@ -4,7 +4,7 @@ DHT22 + LCD + NUCLEO-L476
 
 SHT31 + LCD + NUCLEO-L476
 
-Communication LoRa (simple)
+Communication LoRa E5 (simple)
 
 BE:
 
